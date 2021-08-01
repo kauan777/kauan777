@@ -1,8 +1,8 @@
 ## Ola, Eu sou o Kauan Costa!
 
-- 🔭 Atualmente eu atuo em front-end
-- 🌱 Estaudno React
-- 😄 Pronouns: ele, dele
+- 🔭 Atualmente atuando na aréa de Front-end
+- 🌱 Estudando React
+- 😄 Objetivo: Evoluir constantemente!
 
  <div>
   <a href="https://github.com/kauan777">
