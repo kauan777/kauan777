@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img width: "20px" height "20px" align="right" alt="Rafa-yoda" src="https://media-exp1.licdn.com/dms/image/C4E03AQHJLh-AC4d1iQ/profile-displayphoto-shrink_800_800/0/1622676441184?e=1633564800&v=beta&t=iGjgGmQrPaUAGVW60CRRMxv8cYdUsRQhunkf8GrkjAY">
+  <img width: "20px" height "20px" align="right" alt="Rafa-yoda" src="https://media-exp1.licdn.com/dms/image/C4E03AQHJLh-AC4d1iQ/profile-displayphoto-shrink_100_100/0/1622676441184?e=1633564800&v=beta&t=iGjgGmQrPaUAGVW60CRRMxv8cYdUsRQhunkf8GrkjAY">
 </div>
   
   ##
