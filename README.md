@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img width:  align="right" alt="instagram-perfil" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/s150x150/205173125_841601166791837_2882975670779546161_n.jpg?_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_ohc=s0iMwPV2heQAX8Utdnb&edm=ABfd0MgBAAAA&ccb=7-4&oh=f8c7d35dae30423117360d571610705a&oe=610FD706&_nc_sid=7bff83">
+  <img width:  align="right" alt="instagram-perfil" src="https://avatars.githubusercontent.com/u/74926453?v=4">
 </div>
   
   ##
