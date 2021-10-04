@@ -1,8 +1,8 @@
 ## Ola, Eu sou o Kauan Costa!
 
 - 🔭 Atualmente atuando na aréa de Front-end
-- 🌱 Estudando React
-- 😄 Objetivo: Evoluir constantemente!
+- 🌱 Estudando NextJS, ReactJS, TypeScript, ES6 e UI|UX
+- 😄 Objetivo: Trabalhar com o que eu sei fazer de melhor!
 
  <div>
   <a href="https://github.com/kauan777">
