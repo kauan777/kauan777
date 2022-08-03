@@ -21,6 +21,12 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+ 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kauan777&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan777&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+-->
   
   ##
  
