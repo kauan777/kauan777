@@ -11,7 +11,7 @@ class SobreMim extends Kauan {
 
 class Skills extends Desenvolvedor {
   tecnologias  = ['Next.js', 'React.js', 'Node.js', 'Javascript',
-  'Typescript', 'HTM'L, 'CS'S, 'SCSS', 'Styled-Components', 'Tailwind', 'Bootstrap',
+  'Typescript', 'HTML', 'CSS', 'SCSS', 'Styled-Components', 'Tailwind', 'Bootstrap',
   'Api REST', 'GraphQl', 'Firebase', 'Java', 'Php', 'Asp.net'
   ];
  
