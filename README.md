@@ -20,7 +20,7 @@ class Skills extends Desenvolvedor {
 
 <p align="left">
 
-  <a target="_blank"" href="https://www.linkedin.com/in/kauancosta/" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/kauancosta/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5511985961895" alt="WhatsApp">
