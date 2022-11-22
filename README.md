@@ -1,8 +1,9 @@
 ```js
-import Desenvolvedor from 'SeuNick';
+import Kauan from 'kauan777';
 
-class SobreMim extends Desenvolvedor {
+class SobreMim extends Kauan {
   nome     = 'Kauan Costa';
+  idade  = 18;
   area    = 'Desenvolvedor Full-stack';
   trabalho  = 'Atualmente na Nettracker (Empresa especializada em rastreamento veicular)';
   local = 'Morumbi - SP';
