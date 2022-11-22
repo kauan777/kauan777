@@ -9,9 +9,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  tecnologias  = [Next.js, React.js, Node.js, Javascript,
-  Typescript, HTML, CSS, SCSS, Tailwind, Bootstrap,
-  Api REST, GraphQl, Firebase, Java, Php, Asp.net
+  tecnologias  = ['Next.js', 'React.js', 'Node.js', 'Javascript',
+  'Typescript', 'HTM'L, 'CS'S, 'SCSS', 'Styled-Components', 'Tailwind', 'Bootstrap',
+  'Api REST', 'GraphQl', 'Firebase', 'Java', 'Php', 'Asp.net'
   ];
  
 }
