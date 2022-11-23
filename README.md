@@ -4,9 +4,7 @@ import Kauan from 'kauan777';
 class SobreMim extends Kauan {
   nome     = 'Kauan Costa';
   idade  = 18;
-  area    = 'Desenvolvedor Full-stack';
-  trabalho  = 'Atualmente na Nettracker (Empresa especializada em rastreamento veicular)';
-  local = 'Morumbi - SP';
+  area    = 'Desenvolvedor Full-Stack';
 }
 
 class Skills extends Desenvolvedor {
