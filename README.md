@@ -16,6 +16,8 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kauan777&theme=vue-dark&locale=pt-br)](https://git.io/streak-stats)
+
 <p align="left">
 
   <a target="_blank" href="https://www.linkedin.com/in/kauancosta/" alt="Linkedin">
