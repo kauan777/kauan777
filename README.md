@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato: <a>kauan7622@gmail.com</a> ⤵️
+  💌 Meus links: <a href="https://kauancosta.vercel.app/" target="_blank">Clique aqui</a> 
 </p>
 
 <p align="left">
