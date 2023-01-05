@@ -57,21 +57,15 @@
   
 ## **GitHub Estatísticas**
 
-
-  <p align="left">
-    <a  href="https://github.com/Gurupreet">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan777&theme=dracula&hide_langs_below=1" />
-    </a>
-
-    
-<a align="right" href="https://github.com/Gurupreet">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kauan777&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<div align="center">
+  <a href="https://github.com/GabrielaSantosz">
+  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan777&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img width="530em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan777&layout=compact&langs_count=7&theme=aura"/>
+</div>
     
   
+  ![Snake animation](https://github.com/kauan777/kauan777/blob/output/github-contribution-grid-snake.svg)
 
-<br/>
-<br/>
 
 
 
