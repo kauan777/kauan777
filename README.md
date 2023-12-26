@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nom é Kauan, tenho 18 anos e sou <strong>Desenvolvedor FullStack</strong>.<br>
+  Meu nom é Kauan, tenho 19 anos e sou <strong>Desenvolvedor FullStack</strong>.<br>
   Atualmente atuo como Desenvolvedor Full-stack na Buzzvel!
 </p>
 
