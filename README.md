@@ -5,7 +5,7 @@
 
 <p align="left"> 
   Meu nom é Kauan, tenho 20 anos e sou <strong>Desenvolvedor FullStack</strong>.<br>
-  Atualmente atuo como Desenvolvedor Full-stack na Buzzvel!
+  Atualmente atuo como Desenvolvedor Moible na Soulloop!
 </p>
 
 <p align="left">
